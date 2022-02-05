@@ -45,7 +45,7 @@ export default {
 			typeArray: ['Full Stack Web Developer', 'System Analyst', 'Document Center ISO'],
 			typingSpeed: 200,
 			erasingSpeed: 100,
-			newTextDelay: 100,
+			newTextDelay: 1000,
 			typeArrayIndex: 0,
 			charIndex: 0
 

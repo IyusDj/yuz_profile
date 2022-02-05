@@ -5,7 +5,7 @@
 			<h2 class="title">About</h2>
 			<div class="about-content">
 				<div class="column left">
-					<img src="./assets/logo.png" alt="profile1" />
+					<img src="" alt="profile1" />
 				</div>
 				<div class="column right">
 					<div class="text">
